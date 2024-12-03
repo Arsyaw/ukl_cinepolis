@@ -1,16 +1,33 @@
-# ukl_cinepolis
+![Screenshot 2024-12-03 105435](https://github.com/user-attachments/assets/8f9e5137-5ce8-400b-aa3c-487dcdae2e5c)# ukl_cinepolis
 
-A new Flutter project.
+1.Splash Screen
 
-## Getting Started
+![Screenshot 2024-12-03 105435](https://github.com/user-attachments/assets/0a3ce8b0-3e60-4389-84e8-2f75978728c0)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+2.Login
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![image](https://github.com/user-attachments/assets/ea8233e6-8e24-4c0b-8c5b-bfc29761edff)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+3.Dashboard
+
+![Screenshot 2024-12-03 105654](https://github.com/user-attachments/assets/cf1b5108-cb62-4576-be12-ee2a34c69fbb)
+
+4.My Booking
+
+![image](https://github.com/user-attachments/assets/cf1bfee1-8936-461b-b725-96abc3e37adc)
+
+5.Movie
+
+![image](https://github.com/user-attachments/assets/53a722e5-d221-4853-bb48-9dbc18b9cc1c)
+
+6.Cinema
+
+![image](https://github.com/user-attachments/assets/d6e00400-70fe-4b0c-9f32-1c963725955c)
+
+
+
+
+
+
+
